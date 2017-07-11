@@ -1,0 +1,7 @@
+ 1.Declare variables num1, num2 and sum. 
+ 2. Read values num1 and num2. 
+ 3. Add num1 and num2 and assign the result to sum.
+ 4. sum = num1 + num2 
+ 5. Display sum
+
+
